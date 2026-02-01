@@ -1,0 +1,7 @@
+{
+  "name": "American Accent Coach AI",
+  "description": "An interactive AI-powered tutor designed to help users master the American English accent through phonetics, mouth positioning guides, and real-time audio coaching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
